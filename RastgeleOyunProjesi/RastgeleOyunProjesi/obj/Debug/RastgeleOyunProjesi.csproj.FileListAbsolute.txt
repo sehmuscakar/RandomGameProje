@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\bin\Debug\RastgeleOyunProjesi.exe.config
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\bin\Debug\RastgeleOyunProjesi.exe
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\bin\Debug\RastgeleOyunProjesi.pdb
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\obj\Debug\RastgeleOyunProjesi.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\obj\Debug\RastgeleOyunProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\obj\Debug\RastgeleOyunProjesi.Form1.resources
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\obj\Debug\RastgeleOyunProjesi.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\obj\Debug\RastgeleOyunProjesi.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\obj\Debug\RastgeleOyunProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\obj\Debug\RastgeleOyunProjesi.exe
+C:\Users\Şehmus\Desktop\Kalan Eğitimlerin Projeleri\RastgeleOyunProjesi\RastgeleOyunProjesi\obj\Debug\RastgeleOyunProjesi.pdb
