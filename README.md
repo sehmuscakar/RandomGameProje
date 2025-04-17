@@ -1,28 +1,19 @@
-# 🎮 RandomGameProje
+🎲 Rastgele Sayı Tahmin Oyunu – C# WinForms
+Bu projede, Windows Forms kullanılarak geliştirilen basit bir "rastgele sayı tahmin oyunu" bulunmaktadır. Kullanıcıdan 6 adet sayı girmesi istenir ve ardından Rastgele sınıfı ile 1-20 arasında rastgele 6 sayı üretilir.
 
-Bu proje, C# ile geliştirilen basit bir oyun uygulamasıdır.
+Her bir tahmin, üretilen sayı ile karşılaştırılır ve:
 
-## 🧩 Özellikler
+Doğru tahminler yeşil (🟩)
 
-- 🎲 Rastgele oyun seçimi
-- 🕹️ Kullanıcı dostu arayüz
-- 💾 Skor kaydetme sistemi
+Yanlış tahminler kırmızı (🟥) renkle işaretlenir.
 
-## 🔧 Kullanılan Teknolojiler
+🚀 Kullanılan Teknolojiler:
+C# (.NET Framework)
 
-- .NET Framework
-- Windows Forms (WinForms)
-- C#
+Windows Forms (WinForms)
 
-## 📸 Ekran Görüntüsü
+Visual Studio
 
-![Uygulama Görseli](./image.png)
-
-> Üstteki görseli gösterebilmek için `README.md` dosyasının bulunduğu dizinde `image.png` dosyası olmalı.
-
-## 🚀 Nasıl Çalıştırılır?
-
-1. Bu repoyu klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/RandomGameProje.git
+🎯 Amaç:
+Basit rastgele sayı üretimi ve kullanıcı tahminleri üzerinden geri bildirim sağlama mantığını öğretmeyi amaçlayan eğlenceli ve interaktif bir mini oyundur.
 
